@@ -696,51 +696,45 @@
       ],
       "type": "boxShadow"
     },
-    "dimension": {
-      "scale": {
-        "value": "2",
-        "type": "dimension"
-      },
-      "xs": {
-        "value": "4",
-        "type": "dimension"
-      },
-      "sm": {
-        "value": "{dimension.xs} * {dimension.scale}",
-        "type": "dimension"
-      },
-      "md": {
-        "value": "{dimension.sm} * {dimension.scale}",
-        "type": "dimension"
-      },
-      "lg": {
-        "value": "{dimension.md} * {dimension.scale}",
-        "type": "dimension"
-      },
-      "xl": {
-        "value": "{dimension.lg} * {dimension.scale}",
-        "type": "dimension"
-      }
-    },
     "spacing": {
-      "xs": {
-        "value": "{dimension.xs}",
+      "zero": {
+        "value": "0",
         "type": "spacing"
       },
-      "sm": {
-        "value": "{dimension.sm}",
+      "xmini": {
+        "value": "4",
         "type": "spacing"
       },
-      "md": {
-        "value": "{dimension.md}",
+      "mini": {
+        "value": "8",
         "type": "spacing"
       },
-      "lg": {
-        "value": "{dimension.lg}",
+      "xtiny": {
+        "value": "12",
         "type": "spacing"
       },
-      "xl": {
-        "value": "{dimension.xl}",
+      "tiny": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "xsmall": {
+        "value": "20",
+        "type": "spacing"
+      },
+      "xbig": {
+        "value": "44",
+        "type": "spacing"
+      },
+      "xhuge": {
+        "value": "52",
+        "type": "spacing"
+      },
+      "massive": {
+        "value": "56",
+        "type": "spacing"
+      },
+      "xmassive": {
+        "value": "60",
         "type": "spacing"
       },
       "multi-value": {
@@ -750,7 +744,7 @@
       }
     },
     "borderRadius": {
-      "none": {
+      "zero": {
         "value": "0",
         "type": "borderRadius"
       },
