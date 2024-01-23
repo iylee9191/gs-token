@@ -703,7 +703,7 @@
         "value": "0",
         "type": "spacing"
       },
-      "xmini": {
+      "xMini": {
         "value": "4",
         "type": "spacing"
       },
@@ -711,7 +711,7 @@
         "value": "8",
         "type": "spacing"
       },
-      "xtiny": {
+      "xTiny": {
         "value": "12",
         "type": "spacing"
       },
@@ -719,7 +719,7 @@
         "value": "16",
         "type": "spacing"
       },
-      "xsmall": {
+      "xSmall": {
         "value": "20",
         "type": "spacing"
       },
@@ -735,7 +735,7 @@
         "value": "32",
         "type": "spacing"
       },
-      "xlarge": {
+      "xLarge": {
         "value": "36",
         "type": "spacing"
       },
@@ -743,11 +743,15 @@
         "value": "40",
         "type": "spacing"
       },
-      "xbig": {
+      "xBig": {
         "value": "44",
         "type": "spacing"
       },
-      "xhuge": {
+      "huge": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "xHuge": {
         "value": "52",
         "type": "spacing"
       },
@@ -755,7 +759,7 @@
         "value": "56",
         "type": "spacing"
       },
-      "xmassive": {
+      "xMassive": {
         "value": "60",
         "type": "spacing"
       }
@@ -1466,7 +1470,7 @@
         "lineHeight": "19.9",
         "letterSpacing": "0.4",
         "textDecoration": "{textDecoration.none}",
-        "fontSize": "12"
+        "fontSize": "13"
       },
       "type": "typography"
     },
