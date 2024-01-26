@@ -1763,11 +1763,11 @@
         "type": "color"
       },
       "hover": {
-        "value": "rgba( {colors.gray.900}, 0.4)",
+        "value": "rgba( {colors.gray.900}, 0.04)",
         "type": "color"
       },
       "selected": {
-        "value": "rgba( {colors.gray.900}, 0.8)",
+        "value": "rgba( {colors.gray.900}, 0.08)",
         "type": "color"
       },
       "disabled": {
