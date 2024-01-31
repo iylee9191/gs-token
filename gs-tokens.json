@@ -896,6 +896,14 @@
       "pretendard": {
         "value": "Pretendard",
         "type": "fontFamilies"
+      },
+      "appleSDGothicNeo": {
+        "value": "Apple SD Gothic Neo",
+        "type": "fontFamilies"
+      },
+      "dotum": {
+        "value": "Dotum",
+        "type": "fontFamilies"
       }
     },
     "Headline1": {
