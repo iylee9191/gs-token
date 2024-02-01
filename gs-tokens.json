@@ -1071,8 +1071,8 @@
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "16.3",
-        "letterSpacing": "0",
-        "fontSize": "13"
+        "fontSize": "13",
+        "letterSpacing": "-1"
       },
       "type": "typography"
     },
@@ -1081,8 +1081,8 @@
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.medium}",
         "lineHeight": "16.3",
-        "letterSpacing": "0",
-        "fontSize": "13"
+        "fontSize": "13",
+        "letterSpacing": "-1"
       },
       "type": "typography"
     },
@@ -1091,8 +1091,8 @@
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.semiBold}",
         "lineHeight": "16.3",
-        "letterSpacing": "0",
-        "fontSize": "13"
+        "fontSize": "13",
+        "letterSpacing": "-1"
       },
       "type": "typography"
     },
