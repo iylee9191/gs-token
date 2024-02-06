@@ -1509,6 +1509,20 @@
         "value": "rgba( {colors.gray.300}, 0.1)",
         "type": "color"
       }
+    },
+    "border": {
+      "primary": {
+        "value": "{colors.gray.200}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{colors.gray.400}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{colors.gray.900}",
+        "type": "color"
+      }
     }
   },
   "$themes": [],
