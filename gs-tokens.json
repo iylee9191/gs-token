@@ -901,8 +901,8 @@
         "value": "Apple SD Gothic Neo",
         "type": "fontFamilies"
       },
-      "dotum": {
-        "value": "Dotum",
+      "Malgun Gothic": {
+        "value": "Malgun Gothic",
         "type": "fontFamilies"
       }
     },
@@ -1129,67 +1129,67 @@
     "size": {
       "zero": {
         "value": "0",
-        "type": "spacing"
+        "type": "size"
       },
       "xMini": {
         "value": "4",
-        "type": "spacing"
+        "type": "size"
       },
       "mini": {
         "value": "8",
-        "type": "spacing"
+        "type": "size"
       },
       "xTiny": {
         "value": "12",
-        "type": "spacing"
+        "type": "size"
       },
       "tiny": {
         "value": "16",
-        "type": "spacing"
+        "type": "size"
       },
       "xSmall": {
         "value": "20",
-        "type": "spacing"
+        "type": "size"
       },
       "small": {
         "value": "24",
-        "type": "spacing"
+        "type": "size"
       },
       "medium": {
         "value": "28",
-        "type": "spacing"
+        "type": "size"
       },
       "large": {
         "value": "32",
-        "type": "spacing"
+        "type": "size"
       },
       "xLarge": {
         "value": "36",
-        "type": "spacing"
+        "type": "size"
       },
       "big": {
         "value": "40",
-        "type": "spacing"
+        "type": "size"
       },
       "xBig": {
         "value": "44",
-        "type": "spacing"
+        "type": "size"
       },
       "huge": {
         "value": "48",
-        "type": "spacing"
+        "type": "size"
       },
       "xHuge": {
         "value": "52",
-        "type": "spacing"
+        "type": "size"
       },
       "massive": {
         "value": "56",
-        "type": "spacing"
+        "type": "size"
       },
       "xMassive": {
         "value": "60",
-        "type": "spacing"
+        "type": "size"
       }
     }
   },
