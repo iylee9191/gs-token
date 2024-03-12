@@ -946,7 +946,7 @@
       },
       "type": "typography"
     },
-    "Subtitle1-regular": {
+    "Subtitle1Regular": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.regular}",
@@ -956,7 +956,7 @@
       },
       "type": "typography"
     },
-    "Subtitle1-medium": {
+    "Subtitle1Medium": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.medium}",
@@ -966,7 +966,7 @@
       },
       "type": "typography"
     },
-    "Subtitle1-semiBold": {
+    "Subtitle1SemiBold": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.semiBold}",
@@ -976,7 +976,7 @@
       },
       "type": "typography"
     },
-    "Subtitle2-regular": {
+    "Subtitle2Regular": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.regular}",
@@ -986,7 +986,7 @@
       },
       "type": "typography"
     },
-    "Subtitle2-medium": {
+    "Subtitle2Medium": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.medium}",
@@ -996,7 +996,7 @@
       },
       "type": "typography"
     },
-    "Subtitle2-semiBold": {
+    "Subtitle2SemiBold": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.semiBold}",
@@ -1006,7 +1006,7 @@
       },
       "type": "typography"
     },
-    "Body1-regular": {
+    "Body1Regular": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.regular}",
@@ -1016,7 +1016,7 @@
       },
       "type": "typography"
     },
-    "Body1-medium": {
+    "Body1Medium": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.medium}",
@@ -1026,7 +1026,7 @@
       },
       "type": "typography"
     },
-    "Body1-semiBold": {
+    "Body1SemiBold": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.semiBold}",
@@ -1036,7 +1036,7 @@
       },
       "type": "typography"
     },
-    "Body2-regular": {
+    "Body2Regular": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.regular}",
@@ -1046,7 +1046,7 @@
       },
       "type": "typography"
     },
-    "Body2-medium": {
+    "Body2Medium": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.medium}",
@@ -1056,7 +1056,7 @@
       },
       "type": "typography"
     },
-    "Body2-semiBold": {
+    "Body2SemiBold": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.semiBold}",
@@ -1066,7 +1066,7 @@
       },
       "type": "typography"
     },
-    "Caption-regular": {
+    "CaptionRegular": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.regular}",
@@ -1076,7 +1076,7 @@
       },
       "type": "typography"
     },
-    "Caption-medium": {
+    "CaptionMedium": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.medium}",
@@ -1086,7 +1086,7 @@
       },
       "type": "typography"
     },
-    "Caption-semiBold": {
+    "CaptionSemiBold": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.semiBold}",
@@ -1096,7 +1096,7 @@
       },
       "type": "typography"
     },
-    "Overline-regular": {
+    "OverlineRegular": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.regular}",
@@ -1106,7 +1106,7 @@
       },
       "type": "typography"
     },
-    "Overline-medium": {
+    "OverlineMedium": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.medium}",
@@ -1116,7 +1116,7 @@
       },
       "type": "typography"
     },
-    "Overline-semiBold": {
+    "OverlineSemiBold": {
       "value": {
         "fontFamily": "{fontFamilies.pretendard}",
         "fontWeight": "{fontWeights.semiBold}",
