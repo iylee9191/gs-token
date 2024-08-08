@@ -257,7 +257,7 @@
         "type": "borderRadius"
       }
     },
-    " reference": {
+    "reference": {
       "common": {
         "black": {
           "value": "#000000",
@@ -1232,19 +1232,19 @@
     "system": {
       "primary": {
         "lighter": {
-          "value": "{ reference.blue.50}",
+          "value": "{reference.blue.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.blue.300}",
+          "value": "{reference.blue.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.blue.500}",
+          "value": "{reference.blue.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.blue.700}",
+          "value": "{reference.blue.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1254,19 +1254,19 @@
       },
       "secondary": {
         "lighter": {
-          "value": "{ reference.blueGray.50}",
+          "value": "{reference.blueGray.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.blueGray.300}",
+          "value": "{reference.blueGray.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.blueGray.500}",
+          "value": "{reference.blueGray.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.blueGray.700}",
+          "value": "{reference.blueGray.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1276,19 +1276,19 @@
       },
       "error": {
         "lighter": {
-          "value": "{ reference.red.50}",
+          "value": "{reference.red.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.red.300}",
+          "value": "{reference.red.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.red.500}",
+          "value": "{reference.red.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.red.700}",
+          "value": "{reference.red.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1298,19 +1298,19 @@
       },
       "warning": {
         "lighter": {
-          "value": "{ reference.orange.50}",
+          "value": "{reference.orange.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.orange.300}",
+          "value": "{reference.orange.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.orange.500}",
+          "value": "{reference.orange.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.orange.700}",
+          "value": "{reference.orange.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1320,19 +1320,19 @@
       },
       "info": {
         "lighter": {
-          "value": "{ reference.indigo.50}",
+          "value": "{reference.indigo.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.indigo.300}",
+          "value": "{reference.indigo.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.indigo.500}",
+          "value": "{reference.indigo.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.indigo.700}",
+          "value": "{reference.indigo.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1342,19 +1342,19 @@
       },
       "success": {
         "lighter": {
-          "value": "{ reference.green.50}",
+          "value": "{reference.green.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.green.300}",
+          "value": "{reference.green.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.green.500}",
+          "value": "{reference.green.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.green.700}",
+          "value": "{reference.green.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1364,19 +1364,19 @@
       },
       "teal": {
         "lighter": {
-          "value": "{ reference.teal.50}",
+          "value": "{reference.teal.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.teal.300}",
+          "value": "{reference.teal.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.teal.500}",
+          "value": "{reference.teal.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.teal.700}",
+          "value": "{reference.teal.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1386,19 +1386,19 @@
       },
       "cyan": {
         "lighter": {
-          "value": "{ reference.cyan.50}",
+          "value": "{reference.cyan.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.cyan.300}",
+          "value": "{reference.cyan.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.cyan.500}",
+          "value": "{reference.cyan.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.cyan.700}",
+          "value": "{reference.cyan.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1408,19 +1408,19 @@
       },
       "purple": {
         "lighter": {
-          "value": "{ reference.purple.50}",
+          "value": "{reference.purple.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.purple.300}",
+          "value": "{reference.purple.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.purple.500}",
+          "value": "{reference.purple.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.purple.700}",
+          "value": "{reference.purple.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1430,19 +1430,19 @@
       },
       "yellow": {
         "lighter": {
-          "value": "{ reference.yellow.50}",
+          "value": "{reference.yellow.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.yellow.300}",
+          "value": "{reference.yellow.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.yellow.500}",
+          "value": "{reference.yellow.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.yellow.700}",
+          "value": "{reference.yellow.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1452,19 +1452,19 @@
       },
       "pink": {
         "lighter": {
-          "value": "{ reference.pink.50}",
+          "value": "{reference.pink.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.pink.300}",
+          "value": "{reference.pink.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.pink.500}",
+          "value": "{reference.pink.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.pink.700}",
+          "value": "{reference.pink.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1474,19 +1474,19 @@
       },
       "blue": {
         "lighter": {
-          "value": "{ reference.blue.50}",
+          "value": "{reference.blue.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.blue.300}",
+          "value": "{reference.blue.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.blue.500}",
+          "value": "{reference.blue.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.blue.700}",
+          "value": "{reference.blue.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1496,19 +1496,19 @@
       },
       "gray": {
         "lighter": {
-          "value": "{ reference.gray.50}",
+          "value": "{reference.gray.50}",
           "type": "color"
         },
         "light": {
-          "value": "{ reference.gray.300}",
+          "value": "{reference.gray.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.gray.500}",
+          "value": "{reference.gray.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.gray.700}",
+          "value": "{reference.gray.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1518,7 +1518,7 @@
       },
       "blueGray": {
         "lighter": {
-          "value": "{ reference.blueGray.50}",
+          "value": "{reference.blueGray.50}",
           "type": "color",
           "light": {
             "value": "{colors.blue.300}",
@@ -1538,15 +1538,15 @@
           }
         },
         "light": {
-          "value": "{ reference.blueGray.300}",
+          "value": "{reference.blueGray.300}",
           "type": "color"
         },
         "main": {
-          "value": "{ reference.blueGray.500}",
+          "value": "{reference.blueGray.500}",
           "type": "color"
         },
         "dark": {
-          "value": "{ reference.blueGray.700}",
+          "value": "{reference.blueGray.700}",
           "type": "color"
         },
         "contrastText": {
@@ -1556,149 +1556,149 @@
       },
       "content": {
         "primary": {
-          "value": "{ reference.gray.900}",
+          "value": "{reference.gray.900}",
           "type": "color"
         },
         "secondary": {
-          "value": "{ reference.gray.700}",
+          "value": "{reference.gray.700}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{ reference.gray.500}",
+          "value": "{reference.gray.500}",
           "type": "color"
         },
         "quaternary": {
-          "value": "{ reference.gray.300}",
+          "value": "{reference.gray.300}",
           "type": "color"
         },
         "inversePrimary": {
-          "value": "{ reference.common.white}",
+          "value": "{reference.common.white}",
           "type": "color"
         },
         "inverseSecondary": {
-          "value": "rgba({ reference.common.white}, 0.87)",
+          "value": "rgba({reference.common.white}, 0.87)",
           "type": "color"
         },
         "inverseTertiary": {
-          "value": "rgba({ reference.common.white}, 0.6)",
+          "value": "rgba({reference.common.white}, 0.6)",
           "type": "color"
         }
       },
       "divider": {
         "primary": {
-          "value": "{ reference.gray.100}",
+          "value": "{reference.gray.100}",
           "type": "color"
         },
         "secondary": {
-          "value": "{ reference.gray.200}",
+          "value": "{reference.gray.200}",
           "type": "color"
         }
       },
       "background": {
         "paper": {
-          "value": "{ reference.common.white}",
+          "value": "{reference.common.white}",
           "type": "color"
         },
         "default": {
-          "value": "{ reference.common.white}",
+          "value": "{reference.common.white}",
           "type": "color"
         },
         "primary": {
-          "value": "{ reference.gray.25}",
+          "value": "{reference.gray.25}",
           "type": "color"
         },
         "secondary": {
-          "value": "{ reference.gray.50}",
+          "value": "{reference.gray.50}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{ reference.gray.100}",
+          "value": "{reference.gray.100}",
           "type": "color"
         },
         "inversePaper": {
-          "value": "{ reference.gray.900}",
+          "value": "{reference.gray.900}",
           "type": "color"
         },
         "inversePrimary": {
-          "value": "rgba({ reference.gray.900}, 0.84)",
+          "value": "rgba({reference.gray.900}, 0.84)",
           "type": "color"
         },
         "inverseSecondary": {
-          "value": "rgba({ reference.gray.900}, 0.6)",
+          "value": "rgba({reference.gray.900}, 0.6)",
           "type": "color"
         },
         "inverseTertiary": {
-          "value": "rgba({ reference.gray.900}, 0.38)",
+          "value": "rgba({reference.gray.900}, 0.38)",
           "type": "color"
         }
       },
       "action": {
         "active": {
-          "value": "rgba( { reference.gray.900}, 0.54)",
+          "value": "rgba( {reference.gray.900}, 0.54)",
           "type": "color"
         },
         "hover": {
-          "value": "rgba( { reference.gray.900}, 0.04)",
+          "value": "rgba( {reference.gray.900}, 0.04)",
           "type": "color"
         },
         "selected": {
-          "value": "rgba( { reference.gray.900}, 0.08)",
+          "value": "rgba( {reference.gray.900}, 0.08)",
           "type": "color"
         },
         "disabled": {
-          "value": "rgba( { reference.gray.900}, 0.26)",
+          "value": "rgba( {reference.gray.900}, 0.26)",
           "type": "color"
         },
         "disabledBackground": {
-          "value": "rgba( { reference.gray.900}, 0.12)",
+          "value": "rgba( {reference.gray.900}, 0.12)",
           "type": "color"
         },
         "focus": {
-          "value": "rgba( { reference.gray.900}, 0.12)",
+          "value": "rgba( {reference.gray.900}, 0.12)",
           "type": "color"
         }
       },
       "overlay": {
         "primary": {
-          "value": "rgba( { reference.gray.500}, 0.3)",
+          "value": "rgba( {reference.gray.500}, 0.3)",
           "type": "color"
         },
         "secondary": {
-          "value": "rgba( { reference.gray.500}, 0.2)",
+          "value": "rgba( {reference.gray.500}, 0.2)",
           "type": "color"
         },
         "tertiary": {
-          "value": "rgba( { reference.gray.500}, 0.1)",
+          "value": "rgba( {reference.gray.500}, 0.1)",
           "type": "color"
         },
         "inversePrimary": {
-          "value": "rgba( { reference.gray.300}, 0.3)",
+          "value": "rgba( {reference.gray.300}, 0.3)",
           "type": "color"
         },
         "inverseSecondary": {
-          "value": "rgba( { reference.gray.300}, 0.2)",
+          "value": "rgba( {reference.gray.300}, 0.2)",
           "type": "color"
         },
         "inverseTertiary": {
-          "value": "rgba( { reference.gray.300}, 0.1)",
+          "value": "rgba( {reference.gray.300}, 0.1)",
           "type": "color"
         }
       },
       "border": {
         "primary": {
-          "value": "{ reference.gray.100}",
+          "value": "{reference.gray.100}",
           "type": "color"
         },
         "secondary": {
-          "value": "{ reference.gray.200}",
+          "value": "{reference.gray.200}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{ reference.gray.300}",
+          "value": "{reference.gray.300}",
           "type": "color"
         },
         "quaternary": {
-          "value": "{ reference.gray.900}",
+          "value": "{reference.gray.900}",
           "type": "color"
         }
       }
