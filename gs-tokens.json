@@ -1567,7 +1567,7 @@
           "value": "{colors.gray.500}",
           "type": "color"
         },
-        "disabled": {
+        "quaternary": {
           "value": "{colors.gray.300}",
           "type": "color"
         },
